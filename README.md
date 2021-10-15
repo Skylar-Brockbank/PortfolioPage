@@ -4,7 +4,7 @@
 
 #### _This is the first version of my portfolio landing page_
 
-#### This site can be viewed [Here](https://www.Skylar-Brockbank.github.io/PortfolioPage/)
+#### This site can be viewed [Here](https://Skylar-Brockbank.github.io/PortfolioPage/)
 
 ## Technologies Used
 
