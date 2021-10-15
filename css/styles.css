@@ -1,0 +1,48 @@
+.navigation {
+  width: 100%;
+  background-color: red;
+}
+
+.titlecard {
+  width: 100%;
+  background-color: yellow;
+  display: grid;
+}
+
+.mainTitle {
+  text-align: center;
+  font-size: 50px;
+
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 30px;
+}
+
+.hButton {
+  text-align: center;
+  font-size: 40px;
+}
+
+.projectContainer {
+  width: 100%;
+  display: grid;
+  position: relative;
+}
+
+.projectCard {
+  width: 33%;
+  
+  float: left;
+}
+
+.projectButton {
+  text-align: center;
+  background-color:red;
+}
+
+.sellingPoints {
+  width: 90%;
+  margin: 0 auto;
+}
