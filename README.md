@@ -26,6 +26,7 @@ _This is version 1 of my portfolio landing page. It will eventually be the start
 ## Known Bugs
 
 * _Boxes that are in the same grid overlap if you make the window too small_
+* _If you make the window extremely narrow the bckgroung of the title card will repeat_
 
 ## License
 

@@ -209,3 +209,8 @@ body {
 #tokenSpan {
   font-weight: bold;
 }
+
+.sem {
+  font-style: italic;
+  font-weight: bold;  
+}
