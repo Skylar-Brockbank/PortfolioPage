@@ -1,8 +1,10 @@
-# _Portfolio Page_
+# Portfolio Page
 
 #### By _**Skylar Brockbank**_
 
 #### _This is the first version of my portfolio landing page_
+
+#### This site can be viewed [Here](Skylar-Brockbank.github.io/PortfolioPage/)
 
 ## Technologies Used
 
@@ -16,7 +18,7 @@ _This is version 1 of my portfolio landing page. It will eventually be the start
 
 ## Setup/Installation Requirements
 
-#### This site can be viewed [Here](Skylar-Brockbank.github.io/PortfolioPage/)
+
 
 * _Click the green "Code" button and Download Zip_
 * _Extract the contents of the zip file to a folder on your machine_
