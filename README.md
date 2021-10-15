@@ -16,7 +16,7 @@ _This is version 1 of my portfolio landing page. It will eventually be the start
 
 ## Setup/Installation Requirements
 
-* _Click the green "Code" button and Download Zip _
+* _Click the green "Code" button and Download Zip_
 * _Extract the contents of the zip file to a folder on your machine_
 * _Run the Index.html file with your browser of choice (I recommend Chrome)_
 
@@ -29,5 +29,5 @@ _This is version 1 of my portfolio landing page. It will eventually be the start
 
 ## License
 
-*[MIT](https://opensource.org/licenses/MIT) Licenced
+*[MIT](https://opensource.org/licenses/MIT) Licensed
 *Copyright (c) _2021_ _Skylar Brockbank_
