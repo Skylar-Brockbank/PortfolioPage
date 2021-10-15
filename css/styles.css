@@ -221,3 +221,8 @@ body {
   padding: 2em;
   font-size: 10px;
 }
+
+.sellingPoints > p {
+  border-bottom: solid rgb(136, 136, 136);
+  padding-bottom: .75em;
+}
