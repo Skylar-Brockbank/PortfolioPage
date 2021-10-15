@@ -117,7 +117,7 @@ body {
 }
 
 .sellingPoints {
-  width: 90%;
+  width: 80%;
   background-color: rgb(181, 181, 181);
   margin: 0 auto;
   padding: 2em;
@@ -139,11 +139,15 @@ body {
 .multiListContainer ul {
   justify-self: center;
   padding-right: 1em;
+  padding-bottom: 1em;
+  padding-top: 1em;
   background-color: rgba(0, 0, 0, 0.158);
 }
 .multiListContainer ol {
   justify-self: center;
   padding-right: 1em;
+  padding-bottom: 1em;
+  padding-top: 1em;
   background-color: rgba(0, 0, 0, 0.158);
 }
 #profilepic {
