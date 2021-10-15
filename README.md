@@ -7,7 +7,7 @@
 ## Technologies Used
 
 * _HTML_
-* _CSS(Bootstrap)_
+* _CSS_
 * _Git_
 
 ## Description
