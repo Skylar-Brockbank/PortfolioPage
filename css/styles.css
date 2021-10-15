@@ -214,3 +214,10 @@ body {
   font-style: italic;
   font-weight: bold;  
 }
+
+#footerText {
+  color: black;
+  float: Right;
+  padding: 2em;
+  font-size: 10px;
+}
